@@ -2,7 +2,7 @@
 
 Nice to meet you.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanprajapati004) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-blue?style=flat&logo=linkedin)](amankumar-004) 
 ![Profile Views](https://komarev.com/ghpvc/?username=/Amankumar-004)
 
 Frontend Devloper | AI | Python  | DSA | Explorer
