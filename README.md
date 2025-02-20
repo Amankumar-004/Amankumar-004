@@ -1,6 +1,4 @@
-# Hello, my name is AMAN.
 
-Nice to meet you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-blue?style=flat&logo=linkedin)](amankumar-004) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amankumar-004)
