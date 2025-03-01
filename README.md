@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-blue?style=flat&logo=linkedin)](amankumar-004) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amankumar-004)
 
-Frontend Devloper | AI | Python  | DSA | Explorer
+Frontend Devloper | AI | Python  | DSA | Explorer |JAVA learning
 
 Interest Artificial Intelligence Hobby Chess,Coding, Gaming,Python, Java, JavaScript Language English
 
