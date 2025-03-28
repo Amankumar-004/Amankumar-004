@@ -5,7 +5,7 @@
 
 Frontend Devloper | AI | Python  | DSA | Explorer |JAVA learning
 
-Interest Artificial Intelligence Hobby Chess,Coding, Gaming,Python, Java, JavaScript Language English
+CYBER & TECH ENTHUSIAST |Hobby Chess| Coding | Gaming | Java |
 
 ---
 
