@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm IT student from mumbai university.<br>Frontend Devloper | AI | MACHINE LEARNING | Python | DSA | Explorer |JAVA learning<br>Currently learning AI and improving my data structures and algorithms skills.<br>CYBER & TECH ENTHUSIAST |Hobby Chess| Coding | Gaming | Java |
+I'm IT student from mumbai university.<br>Frontend Devloper | AI | MACHINE LEARNING | Python | DSA | Explorer | <br>Currently learning AI and improving my data structures and algorithms skills.<br>CYBER & TECH ENTHUSIAST<br> |Hobby Chess| Coding | Gaming | Java |
 
 
 
